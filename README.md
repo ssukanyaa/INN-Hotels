@@ -15,7 +15,7 @@ The increasing use of **online booking platforms** has drastically changed custo
 - Reduce losses and improve profit margins
 
 ## 📊 Dataset
-- ⚠️ Dataset not included due to course restrictions. Simulated versions may be used for testing.
+- ⚠️ Dataset not included due to course restrictions.
 
 ## 🔍 Workflow
 - Data Preprocessing
